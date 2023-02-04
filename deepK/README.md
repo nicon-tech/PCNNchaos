@@ -43,8 +43,9 @@ pip install -r requirements.txt
 1. Specify the parameters related to each set and the space of hyper parameters in the "Grid_Enhanced_Network.py" script.   
 
 2. Preprocessing data, train models and obtaining predictions can all be done by executing one of the following main code present inside the directory PWINN_linear:
-Architope_Chaos_Data_analysis.ipynb
-NewArchitope_Chaos_Data_analysis.ipynb
+Architope_Chaos_Data_Analysis.ipynb
+NewArchitope_Chaos_Data_Analysis.ipynb
 
-The first (Architope_Chaos_Data_analysis.ipynb) trains the model simply by training the N sub-models that build the overall neural network. The second (NewArchitope_Chaos_Data_analysis.ipynb) loop the process of learning sub-models and learning the deep classifier inproving the interaction between these two phases.
+The first (Architope_Chaos_Data_Analysis.ipynb) trains the model simply by training the N sub-models that build the overall neural network. The second (NewArchitope_Chaos_Data_Analysis.ipynb) loop the process of learning sub-models and learning the deep classifier inproving the interaction between these two phases.
+
 ---
