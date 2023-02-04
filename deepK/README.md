@@ -15,6 +15,9 @@
 
 ---
 
+# Main code
+The main code is inside the directory PWINN_linear
+
 ## Requirements
 
 To install requirements:
