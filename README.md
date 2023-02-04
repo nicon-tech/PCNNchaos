@@ -1,5 +1,5 @@
 # PCNNchaos
-Piecewise integrable neural network: an interpretable chaos identification framework
+[Piecewise integrable neural network: an interpretable chaos identification framework](https://doi.org/10.1063/5.0134984)
 
 # Abstract
 Artificial neural networks (ANNs) are an effective data-driven approach to model chaotic dynamics. Although ANNs are universal approximators that easily incorporate mathematical structure, physical information, and constraints, they are scarcely interpretable. Here, we develop a neural network framework in which the chaotic dynamics is reframed into piecewise models. The discontinuous formulation defines switching laws representative of the bifurcations mechanisms, recovering the system of differential equations and its primitive (or integral), which describe the chaotic regime.
