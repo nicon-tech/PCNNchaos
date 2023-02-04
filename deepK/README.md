@@ -1,3 +1,4 @@
+# The present algorithm leverages on the work of Kratsios et al.
 # [Learning Sub-Patterns in Piece-Wise Continuous Functions](https://arxiv.org/pdf/2010.15571.pdf)
 **Submitted to:** *Thirty-eighth International Conference on Machine Learning*
 
@@ -12,10 +13,6 @@
                 primaryClass={cs.NE}
                }
 
----
-
-#### DEMO: 
-* In-sample approximation of discontinuous function f with discontinuities arising from two sub-patterns: f_1 and f_2 defined on a partition of the input space.  NB the (feed-forward neural network) ffNN cannot capture the sub-pattern behaviour while the architope (tope) can.
 ---
 
 ## Requirements
